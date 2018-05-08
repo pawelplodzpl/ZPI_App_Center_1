@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Package xmlns="http://schemas.microsoft.com/appx/manifest/foundation/windows10" xmlns:mp="http://schemas.microsoft.com/appx/2014/phone/manifest" xmlns:uap="http://schemas.microsoft.com/appx/manifest/uap/windows10" IgnorableNamespaces="uap mp">
-  <Identity Name="39502drPavelProductions.ZPI2018lecture1" Publisher="CN=69CE50B2-0213-4066-84A4-DF9D0D27F97A" Version="1.1.0.0" />
+  <Identity Name="39502drPavelProductions.ZPI2018lecture1" Publisher="CN=drPavel" Version="1.1.0.0" />
   <mp:PhoneIdentity PhoneProductId="4f1f5bad-63ba-4881-af5b-efef355e09cd" PhonePublisherId="00000000-0000-0000-0000-000000000000" />
   <Properties>
     <DisplayName>ZPI_2018_lecture_1</DisplayName>
