@@ -14,6 +14,8 @@ using Windows.UI.Xaml.Data;
 using Windows.UI.Xaml.Input;
 using Windows.UI.Xaml.Media;
 using Windows.UI.Xaml.Navigation;
+using Microsoft.AppCenter;
+using Microsoft.AppCenter.Analytics;
 
 namespace Hello_ZPI
 {
@@ -30,6 +32,7 @@ namespace Hello_ZPI
         {
             this.InitializeComponent();
             this.Suspending += OnSuspending;
+            AppCenter.Start("d1118808-ebab-423b-b41f-8ae4c810e14a", typeof(Analytics));
         }
 
         /// <summary>
